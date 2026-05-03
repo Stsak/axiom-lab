@@ -1,32 +1,12 @@
-# 🧠 Axiom Lab
+# Axiom Lab - Research Hub
 
-*A curated research vault for projects, ideas, and deep dives.*
-
----
+This repository serves as a centralized hub for various research projects and topics. Each subfolder within this repository is dedicated to a specific area of inquiry, containing relevant notes, findings, and resources.
 
 ## Structure
 
-| Folder | Purpose |
-|--------|---------|
-| `healthcare-rev-ops` | Healthcare business operations, HEDIS, HCC, VBC research |
-| `ai-agents` | Agent architectures, ontologies, orchestration patterns |
-| `business-strategy` | Market analysis, GTM, competitive positioning |
-| `tech-stack` | Tools, frameworks, infrastructure evaluations |
-| `competitive-intel` | Competitor analysis, feature comparisons |
-| `_templates` | Reusable templates for new research entries |
-
----
-
-## Quick Start
-
-1. Create a new topic folder or use an existing one
-2. Copy a template from `_templates/` to get started
-3. Drop research notes, links, data, and conclusions
-4. Commit when a project phase is done
-
----
-
-## Naming Convention
-
-- `YYYY-MM-DD--short-topic-name.md` for dated research
-- `project-name/` for ongoing multi-file projects
+- **ai-agents/**: Research and development related to AI agent architectures, capabilities, and applications.
+- **business-strategy/**: Analysis and insights into business models, market trends, and strategic planning.
+- **competitive-intel/**: Intelligence gathering and analysis on competitors and industry landscapes.
+- **healthcare-rev-ops/**: Research focused on revenue operations within the healthcare sector.
+- **tech-stack/**: Exploration and documentation of technologies, tools, and platforms.
+- **_templates/**: Templates and guidelines for new research projects or documents.
