@@ -1,0 +1,13 @@
+# Core LangChain/LangGraph Libraries
+langchain
+langgraph
+langchain_google_genai  # Or langchain_openai, etc.
+langsmith
+
+# Tooling
+beautifulsoup4
+requests
+pypdf
+
+# Utilities
+python-dotenv
